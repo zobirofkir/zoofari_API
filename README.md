@@ -14,7 +14,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/user-management-system.git
+git clone github:https://github.com/zobirofkir/zoofari_API.git
 
 Import the database schema to your MySQL database using phpMyAdmin. You can find the SQL schema in the database folder of this repository.
 
